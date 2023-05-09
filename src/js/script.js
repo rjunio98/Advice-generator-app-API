@@ -1,6 +1,6 @@
 const adviceUpdateButton = document.querySelector(".advice-update")
 const adviceNumber = document.querySelector(".advice-id")
-const adviceDescription = document.querySelector(".advice-description")
+const adviceDescription = document.querySelector(".advice-desc")
 
 async function getAdvice() {
     const response = await fetch("https://api.adviceslip.com/advice")
