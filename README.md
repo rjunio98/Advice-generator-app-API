@@ -19,5 +19,6 @@ Desafio foi construir um aplicativo web que faz uma comunicação com Advice Sli
 - HTML
 - CSS
 - JavaScript
+- Integração com API
 - Git
 - VSCode
