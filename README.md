@@ -18,3 +18,6 @@ Desafio foi construir um aplicativo web que faz uma comunicação com Advice Sli
 ## Tecnologias utilizadas
 - HTML
 - CSS
+- JavaScript
+- Git
+- VSCode
