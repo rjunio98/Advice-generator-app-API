@@ -5,15 +5,10 @@ Desafio foi construir um aplicativo web que faz uma comunicação com Advice Sli
 
 ---
 
-## Adaptado ao desktop
-[<img src="./design/design.desktop.png">]
+## Funcionalidade
+[<img src="./design/gerador-de-conselho.gif" alt="funcionalidade do botao">]
 
----
-
-## Adaptado mobile
-[<img src="./design/design.mobile.png">]
-
----
+----
 
 ## Tecnologias utilizadas
 - HTML
@@ -21,4 +16,3 @@ Desafio foi construir um aplicativo web que faz uma comunicação com Advice Sli
 - JavaScript
 - Integração com API
 - Git
-- VSCode
